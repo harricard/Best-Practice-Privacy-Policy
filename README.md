@@ -1,14 +1,14 @@
-# Privacy Policy — Onni Vault
+# Privacy Policy — Onni Best Practices
 
 **Effective date:** May 14, 2026
 
-This Privacy Policy explains how **Onni Contracting Ltd.** ("Onni," "we," "us," or "our") collects, uses, and discloses personal information in connection with the Onni Vault mobile application (the "App").
+This Privacy Policy explains how **Onni Contracting Ltd.** ("Onni," "we," "us," or "our") collects, uses, and discloses personal information in connection with the Onni Best Practices mobile application (the "App").
 
 ---
 
 ## 1. Scope
 
-Onni Vault is an internal knowledge tool that lets authorized Onni personnel search and reference Onni's construction best-practice documentation. The App is provided for business use by individuals whose accounts have been provisioned and approved by an Onni administrator. This Policy applies only to the App. It does not apply to the public onni.com website or to any other Onni product, each of which is governed by its own privacy notice.
+Onni Best Practices is an internal knowledge tool that lets authorized Onni personnel search and reference Onni's construction best-practice documentation. The App is provided for business use by individuals whose accounts have been provisioned and approved by an Onni administrator. This Policy applies only to the App. It does not apply to the public onni.com website or to any other Onni product, each of which is governed by its own privacy notice.
 
 ## 2. Information we collect
 
@@ -74,11 +74,11 @@ We retain account information for as long as your account is active. We retain u
 
 ## 7. Your rights
 
-Subject to applicable law, you may request to access, correct, or delete the personal information we hold about you, and you may withdraw consent to our processing. Because Onni Vault is an internal business tool, some requests may be coordinated through your Onni administrator. To make a request, contact us using the details in Section 11. We will respond within the timeframe required by applicable law.
+Subject to applicable law, you may request to access, correct, or delete the personal information we hold about you, and you may withdraw consent to our processing. Because Onni Best Practices is an internal business tool, some requests may be coordinated through your Onni administrator. To make a request, contact us using the details in Section 11. We will respond within the timeframe required by applicable law.
 
 ## 8. Account and data deletion
 
-You may request deletion of your Onni Vault account and the personal information associated with it at any time by emailing [privacy@onni.com](mailto:privacy@onni.com) from your Onni Vault email address, or by asking your Onni administrator. Upon verification, we will deactivate the account and delete or de-identify the related account and usage records, except for information we are required to retain by law.
+You may request deletion of your Onni Best Practices account and the personal information associated with it at any time by emailing [privacy@onni.com](mailto:privacy@onni.com) from your Onni Best Practices email address, or by asking your Onni administrator. Upon verification, we will deactivate the account and delete or de-identify the related account and usage records, except for information we are required to retain by law.
 
 ## 9. Security
 
