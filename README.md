@@ -78,7 +78,7 @@ Subject to applicable law, you may request to access, correct, or delete the per
 
 ## 8. Account and data deletion
 
-You may request deletion of your Onni Vault account and the personal information associated with it at any time by emailing [support@onni.com](mailto:support@onni.com) from your Onni Vault email address, or by asking your Onni administrator. Upon verification, we will deactivate the account and delete or de-identify the related account and usage records, except for information we are required to retain by law.
+You may request deletion of your Onni Vault account and the personal information associated with it at any time by emailing [privacy@onni.com](mailto:privacy@onni.com) from your Onni Vault email address, or by asking your Onni administrator. Upon verification, we will deactivate the account and delete or de-identify the related account and usage records, except for information we are required to retain by law.
 
 ## 9. Security
 
@@ -92,10 +92,10 @@ We may update this Policy from time to time. When we do, we will revise the "Eff
 
 Questions, concerns, or requests regarding this Policy or your personal information may be directed to:
 
-**Onni Contracting Ltd.**
+**Onni Contracting Ltd.** — Privacy
 200–1010 Seymour Street
 Vancouver, BC V6B 3M6, Canada
-[support@onni.com](mailto:support@onni.com)
+[privacy@onni.com](mailto:privacy@onni.com)
 
 ---
 
